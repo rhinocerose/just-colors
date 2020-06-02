@@ -2,7 +2,7 @@
     "$schema": "vscode://schemas/color-theme",
     "name": "Base16 {{scheme-name}}",
     "type": "dark",
-    "colors": {
+    "workbench.colorCustomizations": {
         // Contrast colors
         // "contrastActiveBorder": "#f00", //7
         // "contrastBorder": "#f00", //6
@@ -304,8 +304,8 @@
         "statusBar.debuggingBackground": "#{{base09-hex}}", //9
         "statusBar.debuggingForeground": "#{{base07-hex}}", //7
         // "statusBar.debuggingBorder": "",
-        "statusBar.noFolderBackground": "#{{base0E-hex}}", //E
-        "statusBar.noFolderForeground": "#{{base07-hex}}", //7
+        "statusBar.noFolderBackground": "#{{base00-hex}}", //0
+        "statusBar.noFolderForeground": "#{{base0E-hex}}", //E
         // "statusBar.noFolderBorder": "",
         "statusBarItem.activeBackground": "#{{base03-hex}}", //3
         "statusBarItem.hoverBackground": "#{{base02-hex}}", //2
